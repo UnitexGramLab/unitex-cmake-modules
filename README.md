@@ -17,6 +17,6 @@ This program is licensed under the [GNU Lesser General Public License version 2.
 
 --
 
-Copyright (C) 2014-2015 Université Paris-Est Marne-la-Vallée
+Copyright (C) 2017 Université Paris-Est Marne-la-Vallée
 
 [unitex]: http://unitexgramlab.org
